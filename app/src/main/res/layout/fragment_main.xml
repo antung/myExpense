@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/fragment_content_host"
+        android:background="@drawable/item_bg_light_blue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

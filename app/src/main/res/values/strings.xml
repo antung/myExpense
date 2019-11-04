@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">myExpense</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_add_expense">Add Expense</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_add_account">Add Account</string>
+    <string name="menu_view_expense">View Expense</string>
+    <string name="menu_sync">Sync</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_edit_account">Edit Account</string>
+
+
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sep</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+    <string name="filter">Filter:</string>
+    <string name="all_years">All Years</string>
+    <string name="income">Income</string>
+    <string name="outcome">Outcome</string>
+    <string name="na_refund_for_example">N/A(eg. Refund)</string>
+    <string name="from_year_to">Year %d~%d</string>
+    <string name="year_x">Year %d</string>
+    <string name="text_date">Date</string>
+    <string name="date_format" translatable="false">yyyy-MM-dd</string>
+    <string name="text_time">Time</string>
+    <string name="time_format" translatable="false">HH:mm</string>
+    <string name="amount">Amount</string>
+    <string name="add_new">Add new</string>
+    <string name="category">Category</string>
+    <string name="account">Account</string>
+    <string name="save">Save</string>
+    <string name="item_already_existed">Item already existed!</string>
+    <string name="tags">Tags</string>
+    <string name="text_owner">Owner name</string>
+    <string name="text_account_no">Account No.</string>
+    <string name="card_no">Card No.</string>
+    <string name="text_account_display_name">Account Display Name</string>
+    <string name="account_display_name_format">%s(%s)</string>
+    <string name="please_input_valid_format">Please input valid %s</string>
+</resources>

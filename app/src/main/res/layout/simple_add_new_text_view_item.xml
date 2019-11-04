@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/TextAppearance.Small"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:text = "@string/add_new"
+    android:background="@drawable/item_bg_ligth_yellow">
+</TextView>
